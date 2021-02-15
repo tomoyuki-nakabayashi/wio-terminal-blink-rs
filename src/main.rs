@@ -1,7 +1,7 @@
 #![no_std]
 #![no_main]
 
-//! Wio Terminal のユーザー LED を点滅するサンプルプログラムです。
+//! Wio TerminalのLチカサンプルプログラム
 
 use panic_halt as _;
 use wio_terminal as wio;
